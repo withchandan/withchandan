@@ -36,7 +36,7 @@ I enjoy solving complex engineering problems involving distributed systems, real
 
 ### 🤝 Let's Connect
 
-- LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/thechandanvishwakarma/)
-- Portfolio: [Your Portfolio URL](https://chandan-vishwakarma.vercel.app/)
+- LinkedIn: https://www.linkedin.com/in/thechandanvishwakarma/
+- Portfolio: https://chandan-vishwakarma.vercel.app/
 - Email: sanyukt1994@gmail.com
     
